@@ -1,40 +1,40 @@
-Time Logged,Source,Name,Weight (lbs),Amount,Quality,Price
-6/27/2025 15:29:20,Farm B,Apples,3.2,"",Seconds,10
-7/18/2025 14:51:17,Bee Tree Farms,Asparagus,,4 Bunches,Seconds,20
-7/18/2025 14:52:59,Schleigle Farms,Cherries,,BULK,Seconds,200
-7/18/2025 14:56:08,Deep Hollow,Blue Oyster Mushrooms,,BULK,Seconds,5
-7/18/2025 14:57:23,Kreider's Tomatoes,Tomatoes,,BULK,Seconds,7
-7/18/2025 14:59:24,Jade Family Farms,Parsley,,BULK,Seconds,4
-7/18/2025 15:02:39,Crystal Hollow,Greens,,6 Bags,Seconds,18
-7/18/2025 15:05:44,Deep Hollow,Black King Oyster Mushroom,,1 Mushroom,Seconds,3
-7/18/2025 15:09:41,Bee Tree Berry Farm,Swiss Chard,4,"",Seconds,10
-7/18/2025 15:11:11,Jade Family Farms,Sweet Potatoes,5,"",Seconds,12
-7/18/2025 15:14:20,Bee Tree Berry Farm,Spring Onions,,BULK,Seconds,2
-7/18/2025 15:17:22,Deep Hollow,Shitake,,2 Mushrooms,Seconds,6
-7/18/2025 15:20:40,Oliver's Path,Green Kale,,BULK,Seconds,28
-7/18/2025 15:22:16,Kreider's Tomatoes,Tomatoes,,BULK,Seconds,7
-7/18/2025 15:23:12,Kreider's Tomatoes,Tomatoes,,Bulk,"",18
-7/18/2025 15:27:16,Hostetler,Spring Garlic,,BULK,"",4
-7/18/2025 15:33:05,Schleigle Fruit Farm,Cherries,50,"",Seconds,20
-7/18/2025 15:34:45,Kinfork,Cheese Cubes,50,"",Seconds,100
-7/18/2025 15:39:09,Central PA Produce Co-op,Purple Cauliflower,20,"","",50
-6/27/2025 15:29:20,Farm B,bananas,3,"",Seconds,2
-7/18/2025 14:56:08,Deep Hollow,Shitake Mushrooms (Dried),0.06,"",Seconds,8
-7/18/2025 14:59:24,Jade Family Farms,Celery,,BULK,Seconds,4
-7/18/2025 15:05:44,Deep Hollow,Blue Oyster Mushroom,,1 Mushroom,Seconds,3
-7/18/2025 15:14:20,Bee Tree Berry Farm,Herbs,,BULK,Seconds,3
-7/18/2025 15:17:22,Deep Hollow,Italian Oyster Mushroom,,2 Mushrooms,Seconds,6
-7/18/2025 15:20:40,Oliver's Path,Lacinato Kale,,BULK,"",12
-7/18/2025 15:33:05,Schleigle Fruit Farm,Cherries,,1 pack,"",5
-7/18/2025 15:34:45,Kinfork,Ground Beef,50,"",Seconds,250
-7/18/2025 15:39:09,Central PA Produce Co-op,Orange Cauliflower,20,"","",50
-7/18/2025 14:59:24,Jade Family Farms,Dill,,BULK,Seconds,4
-7/18/2025 15:05:44,Deep Hollow,Chestnut Mushroom,,1 Mushroom,Seconds,3
-7/18/2025 15:17:22,Deep Hollow,Chestnut Mushroom,,2 Mushrooms,"",6
-7/18/2025 15:20:40,Oliver's Path,Romaine,,BULK,"",13
-7/18/2025 15:39:09,Central PA Produce Co-op,Green Cabbage,45,"","",40
-7/18/2025 15:05:44,Deep Hollow,Lions Mane Mushroom,,1 Mushroom,Seconds,3
-7/18/2025 15:20:40,Oliver's Path,Bibb Lettuce,,BULK,"",19
-7/18/2025 15:39:09,Central PA Produce Co-op,Parsley,5,"","",64
-7/18/2025 15:39:09,Central PA Produce Co-op,Red Potatoes,20,,,24
-7/18/2025 15:39:09,Central PA Produce Co-op,Fava Beans,20,,,40
+Time Logged,Source,Name,Amount,Quality,Price
+7/18/2025 14:51:17,Bee Tree Farms,Asparagus,4 Bunches,Seconds,20
+7/18/2025 14:52:59,Schleigle Farms,Cherries,BULK,Seconds,200
+7/18/2025 14:56:08,Deep Hollow,Blue Oyster Mushrooms,BULK,Seconds,5
+7/18/2025 14:57:23,Kreider's Tomatoes,Tomatoes,BULK,Seconds,7
+7/18/2025 14:59:24,Jade Family Farms,Parsley,BULK,Seconds,4
+7/18/2025 15:02:39,Crystal Hollow,Greens,6 Bags,Seconds,18
+7/18/2025 15:05:44,Deep Hollow,Black King Oyster Mushroom,1 Mushroom,Seconds,3
+7/18/2025 15:14:20,Bee Tree Berry Farm,Spring Onions,BULK,Seconds,2
+7/18/2025 15:17:22,Deep Hollow,Shitake,2 Mushrooms,Seconds,6
+7/18/2025 15:20:40,Oliver's Path,Green Kale,BULK,Seconds,28
+7/18/2025 15:22:16,Kreider's Tomatoes,Tomatoes,BULK,Seconds,7
+7/18/2025 15:23:12,Kreider's Tomatoes,Tomatoes,Bulk,"",18
+7/18/2025 15:27:16,Hostetler,Spring Garlic,BULK,"",4
+7/18/2025 14:59:24,Jade Family Farms,Celery,BULK,Seconds,4
+7/18/2025 15:05:44,Deep Hollow,Blue Oyster Mushroom,1 Mushroom,Seconds,3
+7/18/2025 15:14:20,Bee Tree Berry Farm,Herbs,BULK,Seconds,3
+7/18/2025 15:17:22,Deep Hollow,Italian Oyster Mushroom,2 Mushrooms,Seconds,6
+7/18/2025 15:20:40,Oliver's Path,Lacinato Kale,BULK,"",12
+7/18/2025 15:33:05,Schleigle Fruit Farm,Cherries,1 pack,"",5
+7/18/2025 14:59:24,Jade Family Farms,Dill,BULK,Seconds,4
+7/18/2025 15:05:44,Deep Hollow,Chestnut Mushroom,1 Mushroom,Seconds,3
+7/18/2025 15:17:22,Deep Hollow,Chestnut Mushroom,2 Mushrooms,"",6
+7/18/2025 15:20:40,Oliver's Path,Romaine,BULK,"",13
+7/18/2025 15:05:44,Deep Hollow,Lions Mane Mushroom,1 Mushroom,Seconds,3
+7/18/2025 15:20:40,Oliver's Path,Bibb Lettuce,BULK,"",19
+6/27/2025 15:29:20,Farm B,Apples,3.2 lbs,Seconds,10
+7/18/2025 15:09:41,Bee Tree Berry Farm,Swiss Chard,4 lbs,Seconds,10
+7/18/2025 15:11:11,Jade Family Farms,Sweet Potatoes,5 lbs,Seconds,12
+7/18/2025 15:33:05,Schleigle Fruit Farm,Cherries,50 lbs,Seconds,20
+7/18/2025 15:34:45,Kinfork,Cheese Cubes,50 lbs,Seconds,100
+7/18/2025 15:39:09,Central PA Produce Co-op,Purple Cauliflower,20 lbs,"",50
+6/27/2025 15:29:20,Farm B,bananas,3 lbs,Seconds,2
+7/18/2025 14:56:08,Deep Hollow,Shitake Mushrooms (Dried),0.06 lbs,Seconds,8
+7/18/2025 15:34:45,Kinfork,Ground Beef,50 lbs,Seconds,250
+7/18/2025 15:39:09,Central PA Produce Co-op,Orange Cauliflower,20 lbs,"",50
+7/18/2025 15:39:09,Central PA Produce Co-op,Green Cabbage,45 lbs,"",40
+7/18/2025 15:39:09,Central PA Produce Co-op,Parsley,5 lbs,"",64
+7/18/2025 15:39:09,Central PA Produce Co-op,Red Potatoes,20 lbs,,24
+7/18/2025 15:39:09,Central PA Produce Co-op,Fava Beans,20 lbs,,40
