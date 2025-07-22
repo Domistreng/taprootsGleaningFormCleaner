@@ -4,7 +4,22 @@ library(tidyverse)
 library(plotmo)
 
 wideForm <-fread('./data/raw/Gleaning Responses Sheet - Form Responses 1.csv')
-View(wideForm)
 
-items1 <- wideForm[,c(1,3,4,5,50,7,8)]
-View(items1)
+
+newItems <- wideForm[,c(1,3,4,5,50,7,8)]
+colnames(newItems) = c("Time Logged", "Source", "Name", "Weight (lbs)", "Amount", "Quality", "Price")
+
+
+for(i in 1: 8) {
+    wideForm <-fread('./data/raw/Gleaning Responses Sheet - Form Responses 1.csv')
+    currentIndices <- c(1, 3, 5+(4*i), 6+(4*i), 50 + i, 7+(4*i), 8+(4*i))
+    nextItems <- wideForm[,..currentIndices]
+    colnames(nextItems) = c("Time Logged", "Source", "Name", "Weight (lbs)", "Amount", "Quality", "Price")
+    newItems <- rbind(newItems,nextItems)
+}
+newItems <- filter(newItems, !(is.na(Name) | Name == ""))
+
+
+fwrite(newItems,'./data/processed/WideFormCleaned.csv')
+
+print("Complete")
